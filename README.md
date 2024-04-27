@@ -24,3 +24,6 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Links
 
+https://github.com/Al3xG23/RegexToEmail
+
+https://gist.github.com/Al3xG23/de03da6bec41692cdfe3d318d6579c88
